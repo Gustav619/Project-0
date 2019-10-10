@@ -1,3 +1,4 @@
+//ihbioboib
 class Alarm
 {
 private short aTime;
