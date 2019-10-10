@@ -36,7 +36,7 @@ return cTime;
 }
 public short getCDay()
 {
-return cDay;
+return cDay; // competitioncoding
 }
 public short getCDate()
 {
