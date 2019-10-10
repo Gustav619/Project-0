@@ -8,7 +8,7 @@ return aTime;
 }
 public boolean getAlarmState()
 {
-return alarmState;
+return alarmState; // github git
 }
 public boolean getAlarmSound()
 {
