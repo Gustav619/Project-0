@@ -14,6 +14,7 @@ public boolean getAlarmSound()
 {
 return alarmSound;
 }
+    //helloHowareKhanaKhakeJana
 public void setATime(short at)
 {
 aTime=at;
