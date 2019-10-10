@@ -60,7 +60,7 @@ public void setCTime(short ct)
 }
 public void setCDay(short cd)
 {
-    cDay=cd;
+    cDay=cd;  //enjoying coding
 }
 public void setCDate( short cdt)
 {
