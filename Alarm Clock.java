@@ -12,7 +12,7 @@ return alarmState;
 }
 public boolean getAlarmSound()
 {
-return alarmSound;
+return alarmSound;// login to codesites
 }
 public void setATime(short at)
 {
