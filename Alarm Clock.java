@@ -1,3 +1,4 @@
+//hello
 class Alarm
 {
 private short aTime;
