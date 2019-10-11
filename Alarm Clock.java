@@ -1,4 +1,4 @@
-class Alarm
+class Alarm //This is class 
 {
 private short aTime;
 private boolean alarmState, alarmSound;
