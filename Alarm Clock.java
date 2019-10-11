@@ -7,6 +7,7 @@ public short getATime()
 return aTime;
 }
 public boolean getAlarmState()
+//Jsjsjs
 {
 return alarmState;
 }
