@@ -1,3 +1,4 @@
+//last words are bests
 class Alarm
 {
 private short aTime;
