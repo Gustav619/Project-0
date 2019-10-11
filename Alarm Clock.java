@@ -1,5 +1,6 @@
 class Alarm
 {
+//Hello
 private short aTime;
 private boolean alarmState, alarmSound;
 public short getATime()
