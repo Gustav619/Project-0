@@ -1,3 +1,4 @@
+//bhaibhaibhai
 class Alarm
 {
 private short aTime;
