@@ -4,7 +4,8 @@ private short aTime;
 private boolean alarmState, alarmSound;
 public short getATime()
 {
-return aTime;
+//test12345
+    return aTime;
 }
 public boolean getAlarmState()
 {
